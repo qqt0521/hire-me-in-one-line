@@ -1,0 +1,1 @@
+I ship working software before lunch, fix what breaks before you notice, and leave a paper trail clean enough for your next hire to pick up mid-sentence.
